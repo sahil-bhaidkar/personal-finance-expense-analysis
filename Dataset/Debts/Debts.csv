@@ -1,0 +1,6 @@
+transaction_id,date,description,amount,status
+D001,02-01-2026,Personal loan EMI," 8,000.00 ",Paid
+D002,05-01-2026,Credit card bill," 15,000.00 ",Paid
+,08-01-2026,Borrowed from friend," 5,000.00 ",Upcoming
+,12-01-2026,Bike EMI," 4,500.00 ",Upcoming
+,15-01-2026,Emergency borrowing," 7,000.00 ",Upcoming
