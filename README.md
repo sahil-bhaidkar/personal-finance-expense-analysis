@@ -1,4 +1,5 @@
 # 📊 Financial Analytics Dashboard for Personal Wealth Management
+- A data-driven dashboard to analyze income, expenses, savings, and investments for smarter financial decision-making.
 
 ## 🏅 Dashboard Structure
 
